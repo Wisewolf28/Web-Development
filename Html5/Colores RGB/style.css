@@ -1,0 +1,15 @@
+/* RGB = RED GREEN BLUE
+16 HEXADECIMAL DIGITS: 0-9 A B C D E F
+#ffffff o #fff= white
+#000000 o #000=black
+#xx     xx       xx
+red    green     blue
+*/
+
+h1
+ {
+   font-size: 100px;
+ color: #f66;
+ margin: 0;
+   text-align:center;
+}

@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: #00ff00;
+}
+
+
+
+
+
+h1 {
+  font-size: 60px;
+  color: yellow;
+  background-color: blue;
+  margin: 0;
+    text-align:center;
+}
+
+p {
+  color: #FFFF00;
+  font-size: 30px;
+  text-align:center;
+  margin:0;
+}

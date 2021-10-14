@@ -1,0 +1,30 @@
+html{
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 2em;
+  font-variant: normal;
+  /*font-weight: bold;*/
+ /*font-weight: normal;*/
+ /*font-weight: 100-900;*/
+font-weight: 100;
+/*font-style: italic;*/
+/*font-style: oblique;*/
+font-style: initial;
+font-family: "Montserrat", sans-serif; /*fuente importada de fonts.google.com paso 2 (pegar en css)*/
+
+
+
+
+/*
+Font size:
+Absolute keywords - small, medium, large
+Relative keywords - larger, smaller
+Percentage
+em
+Font-variant:
+normal
+small-caps
+initial
+*/

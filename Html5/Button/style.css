@@ -1,0 +1,21 @@
+html{
+  font-size: 16px;
+}
+
+a{
+  text-decoration: none; /*saca el subrayado del link*/
+  font-size: 20px;
+  text-transform: uppercase;
+  background-color: blue;
+ color: #fff;
+ padding: 8px 16px;
+ border-radius: 30px;
+
+}
+
+a:hover {
+background-color: red;
+color:#000;
+border: 1px solid #000;
+transition: 0.75s ease-in;
+}
